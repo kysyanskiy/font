@@ -1,0 +1,49 @@
+body {
+    background-image: url(https://i.gifer.com/2A5.gif);
+    background-size: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    height: 100px;
+    font-weight: 400;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+span {
+    font-weight: 700;
+    color: red;
+    text-decoration: none;
+    text-shadow: none;
+}
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.custom-font {
+    font-family: 'Arial', sans-serif;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
